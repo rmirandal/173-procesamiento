@@ -1,0 +1,14 @@
+
+Se solicita apoyo para generar factura para cliente: 10197060 - PUBLICO EN GENERAL PROMOCIONES
+
+Producto: Business Card Internacional
+
+    Empleadora: A970600001 Total Consumos: 334.06
+
+Número de factura: aqui va la factura  la fecha de creacion de factura: 24/51/2022  por un monto de: 334.06
+
+Producto: Business Card Acceso Total Internacional
+
+    Empleadora: A970600001 Total Consumos: 17109.99
+
+Número de factura: aqui va la factura  la fecha de creacion de factura: 24/51/2022  por un monto de: 17109.99
